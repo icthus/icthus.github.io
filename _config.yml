@@ -2,8 +2,8 @@ inc:
   # Blog Information
   title:        "Icthus"
   subtitle:     "The Bible designed for reading."
-  cover_image:  hero.jpg
-  logo:         logo.png
+  cover_image:  grass.jpg
+  logo:         icthus_icon.png
   
   # Company information
   company:      Icthus
