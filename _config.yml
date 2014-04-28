@@ -2,7 +2,7 @@ inc:
   # Blog Information
   title:        "Icthus"
   subtitle:     "The Bible designed for reading."
-  cover_image:  blog-cover.jpg
+  cover_image:  hero.jpg
   logo:         logo.png
   
   # Company information
@@ -38,6 +38,7 @@ inc:
   # Google Fonts
   # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
   google_font: 'Droid+Sans:400,700'
+  google_font: 'Muli:400'
   
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
@@ -59,7 +60,7 @@ pygments:    true
 relative_permalinks: true
 
 permalink:     pretty
-paginate_path: 'page:num'
+paginate_path: 'blog/page:num'
 paginate: 10
 
 markdown:      maruku
