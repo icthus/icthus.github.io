@@ -75,7 +75,7 @@
             }
         }
         h1 {
-            font-size:1.5em;
+            font-size:3.5em;
         }
         
         h3 {
@@ -97,6 +97,11 @@
                 display:inline-block;
             } 
         }
+    }
+
+    .comparison-bubble {
+        display:block !important;
+        width:100%;
     }
     
     .site-footer {
