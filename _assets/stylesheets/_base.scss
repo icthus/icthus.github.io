@@ -45,6 +45,7 @@ a {
 .container {
     max-width:820px;
     margin:0 auto;
+    overflow:auto;
 }
 
 .article-cover {
@@ -246,9 +247,18 @@ a {
 
 .box {
     max-width:70em;
+    overflow:auto;
+    text-align:left;
+
+    h1 {
+        text-align:center;
+        text-color:$accent;
+    }
+
     div {
         width:30%;
         float:left;
+        margin: 2em 0 0 3%;
     }
 }
 

@@ -103,6 +103,12 @@
         display:block !important;
         width:100%;
     }
+
+    .box {
+        div {
+            width:100%;
+        }
+    }
     
     .site-footer {
         margin-top:0;
@@ -128,9 +134,4 @@
             display:none;
         }
     }
-
-    .box {
-        width:100%;
-    }
-    
 }
