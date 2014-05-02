@@ -1,9 +1,5 @@
 @media (max-width: 1000px) {
     
-    .tagline span {
-        display:none;
-    }
-    
     .container > header, .container > section, .container > footer {
         padding:0;
         margin:1.5em 10%;
@@ -73,6 +69,10 @@
             a {
                 margin:0.5em;
             }
+
+            img {
+                margin:20px;
+            }
         }
         h1 {
             font-size:3.5em;
@@ -81,16 +81,24 @@
         h3 {
             font-size:1em;
         }
-    }
 
-    .site-nav .tagline span {
-        display:none;
+        .appstore-badge-mobile {
+            margin-bottom:0px;
+            display:inline;
+            height:50px;
+        }
     }
     
     .site-nav {
+
+        .appstore-badge {
+            display:none;
+        }
+
+
         #navigation {
             a {
-                display:none;
+                //display:none;
             }
             
             .brand {
@@ -98,6 +106,8 @@
             } 
         }
     }
+
+    
 
     .comparison-bubble {
         display:block !important;
@@ -134,4 +144,5 @@
             display:none;
         }
     }
+
 }
