@@ -4,18 +4,11 @@ layout: base
 <div class="blog-cover" style="background-image:url(/images/{{ site.inc.cover_image }});">
     
     <section>
-        <div class="container">
+        <div class="vertically-center">
             <h1>{{ site.inc.title }}</h1>
             {% if site.inc.subtitle %}<h3>{{ site.inc.subtitle }}</h3>{% endif %}
-        
-            {% if site.inc.twitter %}
-            <a href="https://twitter.com/{{ site.inc.twitter }}" title="Follow on Twitter" target="_blank"><i class="icon icon-twitter"></i></a>
-            {% endif %}
-            {% if site.inc.facebook %}
-            <a href="http://facebook.com/{{ site.inc.facebook }}" title="Like on Facebook" target="_blank"><i class="icon icon-facebook"></i></a>
-            {% endif %}
-            <a href="/feed.xml" title="RSS Feed">
-                <i class="icon icon-rss"></i>
+            <a href="https://itunes.apple.com/us/app/icthus-bible-designed-for/id869573440?ls=1&mt=8">
+                <img class="appstore-badge-mobile" src="/images/Download_on_the_App_Store_Badge.svg"/>
             </a>
         </div>
     </section>
