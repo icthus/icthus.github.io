@@ -28,52 +28,51 @@
     {% endif %}
     <meta property="og:site_name" content="{{ site.inc.title }}">     
 </head>
+
 <body>
-    
-<section class="site-nav">
-    <header>
-        <nav id="navigation">
-            <a href="/" class="home">Home</a>
-            <a href="/blog">Blog</a>
-            <a href="/about">About</a>
-        </nav>
-        <nav class="tagline">   
-            <a href="https://itunes.apple.com/us/app/icthus-bible-designed-for/id869573440?ls=1&mt=8">
-                <span class="vertically-center"></span>
-                <img class="appstore-badge" src="images/Download_on_the_App_Store_Badge.svg"/>
-            </a>
-        </nav>
-    </header>
-</section>
+    <section class="site-nav">
+        <header>
+            <nav id="navigation">
+                <a href="/" class="home">Home</a>
+                <a href="/blog">Blog</a>
+                <a href="/contact">Contact</a>
+            </nav>
+            <nav class="tagline">   
+                <a href="https://itunes.apple.com/us/app/icthus-bible-designed-for/id869573440?ls=1&mt=8">
+                    <span class="vertically-center"></span>
+                    <img class="appstore-badge" src="/images/Download_on_the_App_Store_Badge.svg"/>
+                </a>
+            </nav>
+        </header>
+    </section>
 
-{{ content }}
+    {{ content }}
 
-<footer class="site-footer">
-    <div class="container">
-        &copy; {{ site.time | date: "%Y" }} 
-        
-        <nav>
-            <a href="/">Home</a> &middot;
-            <a href="/blog">Blog</a> &middot;
-            <a href="/about">About</a> &middot;
-        </nav>
-        
-        <nav class="social">
-            {% if site.inc.twitter %}
-            <a href="https://twitter.com/{{ site.inc.twitter }}" title="Follow on Twitter" target="_blank"><i class="icon icon-twitter black"></i></a>
-            {% endif %}
-            {% if site.inc.facebook %}
-            <a href="http://facebook.com/{{ site.inc.facebook }}" title="Follow on Facebook" target="_blank"><i class="icon icon-facebook black"></i></a>
-            {% endif %}    
-            <a href="/feed.xml" title="RSS Feed">
-                <i class="icon icon-rss black"></i>
-            </a>
-        </nav>
-        <p>Incorporated theme by <a href="https://sendtoinc.com">Inc</a></p>
-    </div>
-</footer>
+    <footer class="site-footer">
+        <div class="container">
+            &copy; {{ site.time | date: "%Y" }} 
+            
+            <nav>
+                <a href="/">Home</a> &middot;
+                <a href="/blog">Blog</a> &middot;
+                <a href="/contact">Contact</a> &middot;
+            </nav>
+            
+            <nav class="social">
+                {% if site.inc.twitter %}
+                <a href="https://twitter.com/{{ site.inc.twitter }}" title="Follow on Twitter" target="_blank"><i class="icon icon-twitter black"></i></a>
+                {% endif %}
+                {% if site.inc.facebook %}
+                <a href="http://facebook.com/{{ site.inc.facebook }}" title="Follow on Facebook" target="_blank"><i class="icon icon-facebook black"></i></a>
+                {% endif %}    
+                <a href="/feed.xml" title="RSS Feed">
+                    <i class="icon icon-rss black"></i>
+                </a>
+            </nav>
+            <p>Incorporated theme by <a href="https://sendtoinc.com">Inc</a></p>
+        </div>
+    </footer>
 
-{% include _scripts.html %}
-
+    {% include _scripts.html %}
 </body>
 </html>
