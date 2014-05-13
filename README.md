@@ -1,5 +1,5 @@
 # Icthusapp.com
-This is the repository for [icthusapp.com](http://icthusapp.com), hosted on GitHub pages. 
+This is the repository for [icthusapp.com](http://icthusapp.com), using [Jekyll](http://jekullrb.com) on GitHub pages. 
 
 Based on the incorporated theme by [sendtoinc](http://blog.sendtoinc.com)
 
@@ -10,7 +10,7 @@ Based on the incorporated theme by [sendtoinc](http://blog.sendtoinc.com)
     bundle install
     jekyll serve --watch
 
-    Then open your browser to http://localhost:4000
+Then open your browser to http://localhost:4000
 
 _Note: Requires Ruby version 1.9.3 =>. For example use [rbenv](https://github.com/sstephenson/rbenv)_   
 
