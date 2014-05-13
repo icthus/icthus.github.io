@@ -1,5 +1,5 @@
 # Icthusapp.com
-This is the repository for icthusapp.com, hosted on GitHub pages. 
+This is the repository for [icthusapp.com](http://icthusapp.com), hosted on GitHub pages. 
 
 Based on the incorporated theme by [sendtoinc](http://blog.sendtoinc.com)
 
