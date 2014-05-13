@@ -1,5 +1,5 @@
 # Icthusapp.com
-This is the repository for [icthusapp.com](http://icthusapp.com), using [Jekyll](http://jekullrb.com) on GitHub pages. 
+This is the repository for [icthusapp.com](http://icthusapp.com), using [Jekyll](http://jekyllrb.com) on GitHub pages. 
 
 Based on the incorporated theme by [sendtoinc](http://blog.sendtoinc.com)
 
