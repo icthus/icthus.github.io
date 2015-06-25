@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://icthusapp.com</link>
+    <atom:link href="http://icthusapp.com/feed.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <language>en-us</language>
+    <pubDate>Thu, 25 Jun 2015 17:39:26 +0000</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2015 17:39:26 +0000</lastBuildDate>
+
+    
+    
+    <item>
+      <title>Icthus 1.2</title>
+      <link>http://icthusapp.com/2015/06/25/1.2/</link>
+      <pubDate>Thu, 25 Jun 2015 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://icthusapp.com/2015/06/25/1.2</guid>
+      <description>&lt;p&gt;Today Icthus 1.2 is available for download. In it you’ll find some new features including:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Support for iPhone 6 and 6 Plus screen sizes&lt;/li&gt;
+
+&lt;li&gt;Support for landscape orientation&lt;/li&gt;
+
+&lt;li&gt;Support for handoff&lt;/li&gt;
+
+&lt;li&gt;Icthus is now open source!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Icthus is a labor of love. I’m the sole developer and don’t make any money from the work I do for it. That said, the decision to make Icthus free is an easy one because having a Bible designed for reading is something that everyone should have access to.&lt;/p&gt;
+
+&lt;p&gt;For the same reasons, making Icthus open source was also an easy decision. This allows other developers to read the code, offer improvements, use Icthus as a starting point for their own app, or even redistribute copies of Icthus itself. If you’re intereseted, you can find the source code for Icthus on &lt;a href=&quot;https://github.com/icthus/icthus-ios&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Icthus 1.1</title>
+      <link>http://icthusapp.com/2014/08/26/1.1/</link>
+      <pubDate>Tue, 26 Aug 2014 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://icthusapp.com/2014/08/26/1.1</guid>
+      <description>&lt;p&gt;Today Icthus 1.1 is available on the App Store.&lt;/p&gt;
+
+&lt;p&gt;This version contains a few tweaks and new features, including:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The King James Version of the Bible is now available free of charge. You can use it by navigating to the Translations list from the Settings screen.&lt;/li&gt;
+
+&lt;li&gt;A Dark Mode has been added which is ideal for reading in low-light conditions. It looks so good, you may just prefer to stay in Dark Mode all day long :)&lt;/li&gt;
+
+&lt;li&gt;Icthus now supports Background App Refresh. If you use Icthus on multiple devices and are signed into iCloud, then Icthus will sync your reading history even when the app is closed.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can expect another update sometime this fall, which will include more translations and some cool new features. If you enjoy using Icthus, please &lt;a href=&quot;http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?pageNumber=0&amp;sortOrdering=1&amp;type=Purple+Software&amp;mt=8&amp;id=869573440&quot;&gt;rate it&lt;/a&gt; on the App Store.&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Launch</title>
+      <link>http://icthusapp.com/2014/05/06/launch/</link>
+      <pubDate>Tue, 06 May 2014 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://icthusapp.com/2014/05/06/launch</guid>
+      <description>&lt;p&gt;It’s out! Today Icthus is available to &lt;a href=&quot;https://itunes.apple.com/us/app/icthus-bible-designed-for/id869573440?ls=1&amp;mt=8&quot;&gt;download&lt;/a&gt; on the App Store!&lt;/p&gt;
+
+&lt;p&gt;Icthus is a Bible that has been redesigned for the modern reader. If you look at most of the Bible apps available today, it is clear that they are lagging behind in the mobile revolution. They have followed the design and function of printed Bibles very closely. Icthus is an app built from the ground up to make reading the Bible as easy and seamless as possible.&lt;/p&gt;
+
+&lt;p&gt;This means that Icthus is designed for reading - not for reference like most of the Bibles we have today. Most Bibles have chapter and verse numbers throughout the text so that you can find a specific verse. They have headings for each section, so you can know the context when you look up a passage. There are footnotes that show cross-references to other parts of the Bible, or give alternate translations or definitions. Some Bibles have even inserted letters to divide verses into even smaller pieces.&lt;/p&gt;
+
+&lt;p&gt;The problem with this reference and study material is that when you are ready to &lt;em&gt;just read&lt;/em&gt; it doesn’t go away. That’s why Icthus exists. Because much of the time, all we need are the words.&lt;/p&gt;
+
+&lt;p&gt;When you open Icthus you will find just the text of the Bible, exactly as it was written. The typography has been carefully designed to feel comfortable and readable. If you need chapter and verse numbers you can swipe to the left to see them. Icthus remembers where you were in each book, so you can always pick up where you left off. Everything is set up so that you can &lt;em&gt;just read&lt;/em&gt; the most important books we have.&lt;/p&gt;
+
+&lt;p&gt;Icthus has been my passion for the last 8 months, and I hope that if reading the Bible is something you do, this will make it a little bit better for you.&lt;/p&gt;</description>
+    </item>
+    
+    
+
+  </channel> 
+</rss>
